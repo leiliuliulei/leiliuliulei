@@ -5,7 +5,7 @@
 - 📫 How to reach me:
      1. weibo:		https://weibo.com/u/1906786457 , for casual talks and life sharing;
      2. snowball:	https://xueqiu.com/u/5916818864 , for investment discussion;
-     3. douban:		https://www.douban.com/people/1024122/ , to share books that I read and movies that I watched.
+     3. douban:     https://www.douban.com/people/1024122/ , to share books/movies that I read/watched.
 
 <!---
 leiliuliulei/leiliuliulei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
